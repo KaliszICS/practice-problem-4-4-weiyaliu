@@ -1,3 +1,10 @@
+/**
+	* File: Lesson 4.4 - Boolean functions with loops
+	* Author: Weiya
+	* Date Created: April 13, 2025
+	* Date Last Modified: April 19, 2026
+	*/
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
